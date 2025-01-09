@@ -1,4 +1,3 @@
 # minecraftmds
 Пример сайта
-[Screenshot_1434343.png
-](https://imgur.com/xpPOpA7)
+![Alt text]([http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png](https://imgur.com/a/XBFvlVa))
